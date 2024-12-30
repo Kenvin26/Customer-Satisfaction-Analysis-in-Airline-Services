@@ -26,6 +26,7 @@ This project aims to analyze customer satisfaction trends using Power BI. The da
 
 ## Dataset
 The dataset includes the following key columns:
+https://www.kaggle.com/datasets/johndddddd/customer-satisfaction
 - **Customer Type**: Type of customer (Loyal/Disloyal).
 - **Class**: Flight class (Economy, Business, etc.).
 - **Satisfaction**: Satisfaction level (Satisfied/Dissatisfied).
